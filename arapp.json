@@ -1,0 +1,9 @@
+{
+    "roles": [
+        {
+            "id": "DAC_CREATE_ROLE",
+            "name": "Crea una DAC",
+            "params": []
+        }
+    ]
+}

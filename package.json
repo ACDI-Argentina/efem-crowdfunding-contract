@@ -1,0 +1,25 @@
+{
+  "name": "efem-crowdfunding-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACDI-Argentina/efem-crowdfunding-contract.git"
+  },
+  "author": "Mauricio Coronel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACDI-Argentina/efem-crowdfunding-contract/issues"
+  },
+  "homepage": "https://github.com/ACDI-Argentina/efem-crowdfunding-contract#readme",
+  "dependencies": {
+    "@aragon/os": "^4.4.0"
+  }
+}
